@@ -1,0 +1,6 @@
+{
+  "name": "SmartPaper AI",
+  "description": "Native Android application foundation for SmartPaper AI built with Jetpack Compose, MVVM, and Repository pattern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
